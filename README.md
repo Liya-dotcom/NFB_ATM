@@ -86,5 +86,5 @@ Contributions are welcome! Please fork the repository and submit pull requests.
 
 🚀 **Happy coding!**  
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+MIT License - Open source and free to modify/use  
 
