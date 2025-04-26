@@ -78,8 +78,8 @@ Console.WriteLine($"Transaction completed in {perfTimer.ElapsedMilliseconds()} m
 - [ ] Create graphical interface  
 - [ ] Add unit tests  
 
-## Contribution Guidelines  
-Contributions are welcome! Please fork the repository and submit pull requests.
+## Contributor  
+    Liyabona Thebe
 
 ---
 **Note**: This project is part of my developer portfolio. 
